@@ -1,4 +1,4 @@
-#PROFILE
+# PROFILE
 # 👋 Hi, I'm Ayush Mishra!
 
 🎯 **Aspiring Data Scientist**  
