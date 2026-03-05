@@ -1,8 +1,7 @@
 # PROFILE
 # 👋 Hi, I'm Ayush Mishra!
 
-🎯 **Aspiring Data Scientist**  
-💻 Skilled in **Python, C++, SQL and C**  
+💻 Skilled in **Python, Java, SQL and C**  
 📚 Currently exploring **Machine Learning, Data Analysis & AI**  
 🚀 Passionate about building projects that solve real-world problems
 
@@ -19,14 +18,14 @@
 ## 🛠️ Skills
 ### **Programming Languages**
 - 🐍 Python  
-- 💠 C++  
+- 💠 Java
+- 🗄️ SQL
 - 🔰 C Language
 
 ### **Data Science & Tools**
 - 📊 Pandas, NumPy  
-- 🤖 Scikit-Learn  
-- 📈 Matplotlib, Seaborn  
-- 🗄️ SQL (learning)
+- 📈 Matplotlib
+- 🗄️ SQL
 
 ### **Other Tools**
 - Git & GitHub  
@@ -37,9 +36,8 @@
 
 ## 📌 Current Goals
 - 🔥 Master **Machine Learning**  
-- 📘 Create real-world **Data Science projects**  
-- 🧠 Learn **Deep Learning** step-by-step  
-- 🌐 Build a strong GitHub profile  
+- 📘 Create real-world **Retail Business Analysis**  
+- 🧠 Learning **Deep Learning** step-by-step 
 
 ---
 
@@ -48,5 +46,3 @@
  
 - Email: officialayushmishra002@gmail.com  
 ---
-
-⭐ *Thanks for visiting my profile! Feel free to fork any repo or send a PR.*  
